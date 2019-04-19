@@ -1,5 +1,5 @@
 const fs = require('fs-extra');
-var path = require('path')
+const path = require('path')
 const root = "../Takeout/Google_Photos";
 const colors = require('colors');
 start();
