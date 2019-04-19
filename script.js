@@ -65,5 +65,4 @@ async function removeJsonInDir(dir) {
         console.log(colors.red(`Error removing file ${dir}/${jsonFile} e`));
       })
   })
-  // fs.remove(`${root}/${dir}`)
 }
