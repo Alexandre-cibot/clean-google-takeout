@@ -1,3 +1,3 @@
 ## Next steps todo:
-- move all picture to the root directory
-- remove all sub-directory.
+- move all pictures to the root directory
+- remove all sub-directories.
