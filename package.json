@@ -1,7 +1,7 @@
 {
   "name": "clean-google-takeout",
   "version": "1.0.0",
-  "description": "Google takeout make an archive for Google photos full of metadata as .json. This script aims to remove all that .json files",
+  "description": "Google takeout makes an archive for Google photos full of metadatas as .json files. This script aims to remove all that .json files",
   "main": "script.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
